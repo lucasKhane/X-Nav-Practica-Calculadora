@@ -1,0 +1,41 @@
+.botones #tecla, .botones #result{
+  background: #BEF781;
+  border-color: #80FF00;
+  box-shadow: 3px 3px 0 0 #80FF00;
+  border-radius: 20px;
+  color: #555;
+
+
+  color:#0B610B;
+  font-size: 20px;
+    padding:3%;
+    margin: 2%;
+  
+}
+
+.botones {
+    text-align:center;
+    margin:3px;
+    padding:3px;
+}
+
+.screen{
+    text-align:center; 
+}
+.screen #pantalla{
+    font-size: 20px;
+    width: 50%;
+    margin: 30px;
+    text-align:right;
+}
+
+.calculadora{
+    width: 50%;
+    background-color:#0B610B;
+    border: dotted;
+}
+
+h1{
+    text-align:center;
+    text-shadow: 0 10px 0 #F345FF;
+}
